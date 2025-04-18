@@ -1,4 +1,4 @@
-🚀 Project Overview - 
+ Project Overview - 
 This project was completed as part of our Predictive Analytics course while pursuing a Master of Science in Business Analytics at the College of Business, University of Louisville. The project was a case competition where our team of five members analyzed customer response trends to optimize marketing strategies for Gourmet Haven.
 
 The event was a high-impact competition, where our insights and recommendations made a strong impression. Out of 25 competing teams, our team was honored to be selected among the Top 5 finalists, highlighting the depth and effectiveness of our data-driven approach.
